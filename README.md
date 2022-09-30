@@ -1,7 +1,27 @@
 <h1 align="center">Hi 👋, I'm Abraão Moreira!</h1>
 <br>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=AbraaoM&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=AbraaoM&theme=dark&hide_border=true" width = 400>
-</p>
+<div align="center">
+Fullstack Developer
+    
+*Angular - TS and .NET - C#*
+
+</div>
+
+<div align="center">
+    <a href="https://twitter.com/intent/follow?screen_name=abraaomoreira_">
+        <img src="https://img.shields.io/twitter/follow/abraaomoreira_?style=social&logo=twitter"
+        alt="follow on Twitter">
+    </a>
+</div>
+
+---
+
+<div align="right">
+     <a href="https://github.com/abraaom">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraaom&hide=html&layout=compact&&show_icons=true&line_height=27&count_private=true&theme=radical"
+        alt="Linguagens mais usadas" align="right">
+    </a>
+</div>
+
+Experience in **Full-Stack Development** with **TypeScript**, **Angular**, **Boostrap**, **C#**, **.NET**, **MySQL** and **MQL**.

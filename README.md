@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋</h1>
 <div align="center">
 
-## Fullstack Developer
+Fullstack Developer
     
-### *Angular - TS and .NET - C#*
+*Angular - TS and .NET - C#*
 
 </div>
 

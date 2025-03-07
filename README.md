@@ -17,7 +17,7 @@ Fullstack Developer
 
 [📖 Dev Community](https://dev.to/abraaom)
 
-[👨‍💻 abraaomoreira.com](https://abraaomoreira.com)
+[👨‍💻 abraaomoreira.com](https://abraaomoreira.dev)
 
 🏡 Pindamonhanaba/SP - Brasil
 

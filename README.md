@@ -5,6 +5,10 @@ Fullstack Developer
     
 *Angular - TS and .NET - C#*
 
+Current learning: 
+- Vue/Nuxt - TS and FastAPI - Python
+- AI Agents - Langchain
+
 </div>
 
 ---
@@ -17,7 +21,7 @@ Fullstack Developer
 
 [📖 Dev Community](https://dev.to/abraaom)
 
-[👨‍💻 abraaomoreira.com](https://abraaomoreira.dev)
+[👨‍💻 abraaomoreira.dev](https://abraaomoreira.dev)
 
 🏡 Pindamonhanaba/SP - Brasil
 

@@ -5,9 +5,13 @@ Fullstack Developer
     
 *Angular - TS and .NET - C#*
 
-Current learning: 
-- Vue/Nuxt - TS and FastAPI - Python
-- AI Agents - Langchain
+</br>
+
+Current learning
+
+*Vue/Nuxt - TS and FastAPI - Python*
+
+*AI Agents - Langchain*
 
 </div>
 
